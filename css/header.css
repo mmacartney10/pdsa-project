@@ -11,6 +11,9 @@ header{
 header a{
 	text-decoration: none;
 	color: #fff;
+	font-size: 18px;
+	margin-top:1px;
+	vertical-align: middle;
 }
 
 header .top{
@@ -34,4 +37,8 @@ header .bottom{
 	display: block;
 	margin-top:190px;
 	padding: 10%;
+}
+
+header .bottom .arrow{
+	width: 18px;
 }
