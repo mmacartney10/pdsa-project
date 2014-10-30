@@ -21,8 +21,8 @@
 .secondsection{
 	background-color:#e8d5be;
 	width: 100%;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 .secondsection p {
 	padding-left:20px;
@@ -46,8 +46,8 @@
 .thirdsection{
 	background-color:#ebdfd0;
 	width: 100%;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 .thirdsection p {
 padding-left:20px;
