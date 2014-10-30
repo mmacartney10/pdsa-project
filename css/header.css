@@ -9,15 +9,9 @@ header{
 }
 
 header a{
-	width: 80%;
 	text-decoration: none;
 	color: #fff;
 	font-size: 18px;
-	margin-top:1px;
-	background-image: url('../images/call-to-action-white.png');
-	background-repeat: no-repeat;
-	background-position: right;
-	background-size: 20px;
 }
 
 
@@ -29,14 +23,38 @@ header .top{
 header .top .logo{
 	width: 80px;
 	padding: 7px 0;
-	margin: 0 1% 0 10%;
+	margin: 10px 1% 0 10%;
+	float: left;
 }
 
-header .top a{
+header .top a:hover{
+	opacity: 0.9;
+}
+
+header .top .menu{
+	color: #33302d;
+	padding: 40px 10px;
+	position: relative;
+	top: 30px;
+
 	background-image: url('../images/menu-icon.png');
 	background-repeat: no-repeat;
 	background-position: right;
-	background-size: 50px 50px;
+	background-size: 70px 70px;
+}
+
+header .bottom .member-link{
+	display: inline-block;
+	padding-right: 30px;
+
+	background-image: url('../images/call-to-action-white.png');
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 22px;
+}
+
+header .bottom a:hover{
+	opacity: 0.8;
 }
 
 header .top .menu{
