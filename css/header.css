@@ -1,0 +1,22 @@
+header{
+	width: 100%;
+	min-height: 550px;
+	overflow: hidden;
+	position: relative;
+	background-image: url('../images/header.jpg');
+	background-size: cover;
+	color: #fff;
+}
+
+header img{
+	
+}
+
+header .title{
+	background: red;
+}
+
+header a{
+	text-decoration: none;
+	color: #fff;
+}
