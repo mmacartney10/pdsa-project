@@ -31,7 +31,7 @@ header .top .menu{
 }
 
 header .bottom{
-	background: red;
 	display: block;
-	margin-top:20px;
+	margin-top:190px;
+	padding: 10%;
 }
