@@ -1,17 +1,22 @@
 .social-media{
 	background: #ebdfd0;
 	text-align: center;
-	padding: 20px 0;
 	color: #33302d;
+}
+
+.social-media h2{
+	padding-top: 20px;
 }
 
 .socal-media ul{
 	list-style-type: none;
+	margin: auto;
+	padding: 0;
 }
 
 .social-media ul li{
 	display: inline-block;
-	margin-right: 45px;
+	margin-right: 40px;
 	padding: 10px 0;
 }
 
