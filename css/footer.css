@@ -2,6 +2,7 @@
 	background: #ebdfd0;
 	text-align: center;
 	padding: 20px 0;
+	color: #33302d;
 }
 
 .socal-media ul{
@@ -9,8 +10,9 @@
 }
 
 .social-media ul li{
-	display: inline;
+	display: inline-block;
 	margin-right: 45px;
+	padding: 10px 0;
 }
 
 .social-media ul li:hover{
@@ -23,7 +25,19 @@ footer{
 
 footer a{
 	text-decoration: none;
+	text-align: center;
+	padding: 20px 0;
+	border-bottom: 1px solid #33302d;
 	font-size: 20px;
 	display: block;
-	color: #fff;
+	color: #33302d;
+
+	background-image: url('../images/call-to-action-newsletter.png');
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 50px 50px;
+}
+
+footer a:hover{
+	opacity: 0.7;
 }
