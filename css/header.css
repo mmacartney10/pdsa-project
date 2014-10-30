@@ -3,7 +3,7 @@ header{
 	min-height: 550px;
 	overflow: hidden;
 	position: relative;
-	background-image: url('../images/header.jpg');
+	background-image: url('../images/pug.png');
 	background-size: cover;
 	color: #fff;
 }
