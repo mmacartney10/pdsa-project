@@ -41,3 +41,23 @@ footer a{
 footer a:hover{
 	opacity: 0.7;
 }
+
+footer .top-cont{
+	list-style-type: none;
+	text-align: center;
+	display: none;
+}
+
+footer .top-cont li{
+	color: #33302d;
+	padding:10px;
+}
+
+
+
+
+
+
+
+
+
