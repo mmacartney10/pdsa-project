@@ -1,7 +1,9 @@
 .fitclub {
 	width: 100%;
-	background-color: blue;
+	background-image:url(../images/cat.jpg);
 	height:200px;
+	background-size: 100%;
+	background-position: center;
 }
 .petcheck {
 	width: 100%%;
