@@ -6,7 +6,7 @@
 	background-position: center;
 }
 .petcheck {
-	width: 100%%;
+	width: 100%;
 	background-image:url(../images/pet.jpg);
 	background-size: 200%;
 	background-position: center;
@@ -16,13 +16,13 @@
 	
 }
 .forum {
-	width: 100%%;
+	width: 100%;
 	background-color:orange;
 	height: 200px;
 	
 }
 .successstory {
-	width: 100%%;
+	width: 100%;
 	background-color:red;
 	height:400px;
 	
