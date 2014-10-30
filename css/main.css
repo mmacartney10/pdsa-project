@@ -11,6 +11,7 @@ text-transform:uppercase;
 .firstsection p {
 padding-left:20px;
 padding-right:20px;
+margin:0;
 }
 
 .secondsection{
@@ -20,6 +21,7 @@ width: 100%;
 .secondsection p {
 padding-left:20px;
 padding-right:20px;
+margin:0;
 }
 .vetcare{
 text-align:center;
@@ -35,6 +37,7 @@ width: 100%;
 .thirdsection p {
 padding-left:20px;
 padding-right:20px;
+margin:0;
 }
 .petwell-being{
 text-align:center;
@@ -50,10 +53,16 @@ width: 100%;
 .fourthsection p {
 padding-left:20px;
 padding-right:20px;
+margin:0;
+
 }
 .getinvolved{
 text-align:center;
 }
 .getinvolvedtitle{
 text-transform:uppercase;
+}
+
+h3{
+margin:0;
 }
