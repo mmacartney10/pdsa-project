@@ -1,18 +1,20 @@
 .fitclub {
 	width: 100%;
-	background-image:url(../images/cat.jpg);
+	background-image:url(../images/pet-fit-club.png);
 	height:200px;
 	background-size: 100%;
 	background-position: center;
+	text-align:center;
+	color:white;
 }
 .petcheck {
 	width: 100%;
-	background-image:url(../images/pet.jpg);
-	background-size: 200%;
+	background-image:url(../images/pet-check.png);
+	background-size: 100%;
 	background-position: center;
 	height:200px;
-	padding-left:10px;
 	color:white;
+	text-align:center;
 	
 }
 .forum {
@@ -23,7 +25,7 @@
 }
 .successstory {
 	width: 100%;
-	background-color:red;
+	background-image:url(../images/textured-background.png);
 	height:400px;
 	
 }
@@ -41,6 +43,19 @@
 
 .petchecktitle {
 	text-transform:uppercase;
-	padding-top:55%;
+	padding-top:8%;
 	margin:0;
+	text-align:center;
+	color:white;
+	font-size:2em;
+}
+
+.petfittitle {
+	padding-top:15%;
+	font-size:2em;
+}
+
+.fitclub p {
+	padding-left:10px;
+	padding-right:10px;
 }
