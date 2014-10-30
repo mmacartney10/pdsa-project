@@ -1,0 +1,41 @@
+.fitclub {
+	width: 100%;
+	background-color: blue;
+	height:200px;
+}
+.petcheck {
+	width: 100%%;
+	background-color:pink;
+	height:200px;
+	padding-left:10px;
+	
+}
+.forum {
+	width: 100%%;
+	background-color:orange;
+	height: 200px;
+	
+}
+.successstory {
+	width: 100%%;
+	background-color:red;
+	height:400px;
+	
+}
+
+.leftwrapper {
+	width:50%;
+	float:left;
+}
+
+
+.rightwrapper {
+	width:50%;
+	float:right;
+}
+
+.petchecktitle {
+	font-size:20px;
+	text-transform:uppercase;
+	padding-top:55%;
+}
