@@ -4,11 +4,13 @@ body{
 }
 
 h1{
-	font-size: 60px;
+	font-size: 70px;
+	margin: 0;
 }
 
 h2{
 	font-size: 40px;
+	margin: 0;
 }
 
 h3{

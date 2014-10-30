@@ -1,0 +1,59 @@
+.firstsection{
+background-color:red;
+width: 100%;
+}
+.hereforyou{
+text-align:center;
+}
+.hereforyoutitle{
+text-transform:uppercase;
+}
+.firstsection p {
+padding-left:20px;
+padding-right:20px;
+}
+
+.secondsection{
+background-color:blue;
+width: 100%;
+}
+.secondsection p {
+padding-left:20px;
+padding-right:20px;
+}
+.vetcare{
+text-align:center;
+}
+.vetcaretitle{
+text-transform:uppercase;
+}
+
+.thirdsection{
+background-color:orange;
+width: 100%;
+}
+.thirdsection p {
+padding-left:20px;
+padding-right:20px;
+}
+.petwell-being{
+text-align:center;
+}
+.petwell-beingtitle{
+text-transform:uppercase;
+}
+
+.fourthsection{
+background-color:pink;
+width: 100%;
+}
+.fourthsection p {
+padding-left:20px;
+padding-right:20px;
+}
+.getinvolved{
+text-align:center;
+}
+.getinvolvedtitle{
+text-transform:uppercase;
+}
