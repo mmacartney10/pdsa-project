@@ -5,15 +5,18 @@ header{
 	position: relative;
 	background-image: url('../images/header.jpg');
 	background-size: cover;
-	font-family: 'rather_loudbold';
+	color: #fff;
 }
 
 header img{
 	
 }
 
+header .title{
+	background: red;
+}
+
 header a{
 	text-decoration: none;
 	color: #fff;
-	font-family: 'rather_loudbold';
 }
