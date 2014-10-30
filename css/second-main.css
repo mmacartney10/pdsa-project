@@ -19,7 +19,7 @@
 }
 .forum {
 	width: 100%;
-	background-color:orange;
+	background-color:white;
 	height: 200px;
 	
 }
@@ -27,6 +27,8 @@
 	width: 100%;
 	background-image:url(../images/textured-background.png);
 	height:400px;
+	text-align:center;
+	color: white;
 	
 }
 
@@ -54,6 +56,15 @@
 	padding-top:15%;
 	font-size:2em;
 }
+.successtitle {
+	text-transform:uppercase;
+	padding-top:8%;
+	margin:0;
+	text-align:center;
+	color:white;
+	font-size:2em;
+}
+
 
 .fitclub p {
 	padding-left:10px;
