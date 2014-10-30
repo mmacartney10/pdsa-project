@@ -1,0 +1,19 @@
+header{
+	width: 100%;
+	min-height: 550px;
+	overflow: hidden;
+	position: relative;
+	background-image: url('../images/header.jpg');
+	background-size: cover;
+	font-family: 'rather_loudbold';
+}
+
+header img{
+	
+}
+
+header a{
+	text-decoration: none;
+	color: #fff;
+	font-family: 'rather_loudbold';
+}
