@@ -1,14 +1,14 @@
 .fitclub {
 	width: 100%;
-	background-image:url(../images/cat.jpg);
+	background-image:url(../images/pet-fit-club.png);
 	height:200px;
 	background-size: 100%;
-	background-position: center;
+	background-position: top;
 }
 .petcheck {
 	width: 100%;
-	background-image:url(../images/pet.jpg);
-	background-size: 200%;
+	background-image:url(../images/pet-check.png);
+	background-size: 100%;
 	background-position: center;
 	height:200px;
 	padding-left:10px;
@@ -43,4 +43,8 @@
 	text-transform:uppercase;
 	padding-top:55%;
 	margin:0;
+}
+
+.petfittitle {
+	
 }
