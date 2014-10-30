@@ -8,15 +8,30 @@ header{
 	color: #fff;
 }
 
-header img{
-	
-}
-
-header .title{
-	background: red;
-}
-
 header a{
 	text-decoration: none;
 	color: #fff;
+}
+
+header .top{
+	display: block;
+	margin: 0;
+}
+
+header .top .logo{
+	width: 80px;
+	padding: 7px 0;
+	margin: 0 1% 0 10%;
+}
+
+header .top .menu{
+	width: 50px;
+	margin: 10px 0 1% 45%;
+
+}
+
+header .bottom{
+	background: red;
+	display: block;
+	margin-top:20px;
 }
