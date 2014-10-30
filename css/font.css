@@ -15,6 +15,11 @@ h1, h2, h3, h4, h5{
 	font-family: 'rather_loudbold';
 }
 
-p {
+.title h1, .title h2{
+	font-family: 'rather_loudbold';
+}
+
+p, a{
     font-family:verdana;
+
 }
