@@ -11,12 +11,15 @@
 .socal-media ul{
 	list-style-type: none;
 	margin: auto;
-	padding: 0;
+}
+
+ul{
+	padding:0;
 }
 
 .social-media ul li{
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 30px;
 	padding: 10px 0;
 }
 
