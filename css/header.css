@@ -22,10 +22,10 @@ header .top{
 
 header .top .logo{
 	width: 80px;
-	padding: 7px 0;
-	margin: 10px 1% 0 10%;
+	padding: 7px 10%;
 	float: left;
 	padding-top: 25px;
+
 }
 
 header .top a:hover{
@@ -55,12 +55,6 @@ header .bottom .member-link{
 
 header .bottom a:hover{
 	opacity: 0.8;
-}
-
-header .top .menu{
-	width: 50px;
-	margin: 10px 0 1% 45%;
-
 }
 
 header .bottom{
