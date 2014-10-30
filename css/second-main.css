@@ -5,9 +5,12 @@
 }
 .petcheck {
 	width: 100%%;
-	background-color:pink;
+	background-image:url(../images/pet.jpg);
+	background-size: 200%;
+	background-position: center;
 	height:200px;
 	padding-left:10px;
+	color:white;
 	
 }
 .forum {
@@ -35,7 +38,7 @@
 }
 
 .petchecktitle {
-	font-size:20px;
 	text-transform:uppercase;
 	padding-top:55%;
+	margin:0;
 }
